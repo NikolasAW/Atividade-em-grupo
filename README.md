@@ -6,5 +6,6 @@ atividade em grupo git
 * Rhuan
 * Mauricio
 * Eduardo
+* Wendel
 
 ## O propósito é criar um repositório sobre cinema.
